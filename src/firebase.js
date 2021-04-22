@@ -3,12 +3,12 @@ import 'firebase/auth'
 import 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDsksTzsfD9lIgtcU-n3VWOrOfzIJ_FryM",
-  authDomain: "resume-53ca6.firebaseapp.com",
-  projectId: "resume-53ca6",
-  storageBucket: "resume-53ca6.appspot.com",
-  messagingSenderId: "526344420752",
-  appId: "1:526344420752:web:eac2f09eacf1678e3f8715"
+  apiKey: "AIzaSyC-zSgPWj4MFd_pLfQV_ON88b44EDhOf-U",
+  authDomain: "resume-c734c.firebaseapp.com",
+  projectId: "resume-c734c",
+  storageBucket: "resume-c734c.appspot.com",
+  messagingSenderId: "600372502116",
+  appId: "1:600372502116:web:3b9e7a3a7e76f2ac5f8971"
 };
 if(!firebase.apps.length) {
   firebase.initializeApp(firebaseConfig)
