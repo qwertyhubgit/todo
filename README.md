@@ -1,13 +1,5 @@
 # Todo App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
 In this app, I used firebase (auth and firestore), Redux(thunk and little bit saga).
 The src/redux directory has five scripts actions, personalInfo, reducers, rootReducer and types.
 The src/comps directory has all components, which are used in the application.
